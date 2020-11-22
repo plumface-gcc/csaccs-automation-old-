@@ -5,8 +5,8 @@ import time
 import re
 import random
 
-username = 'johntrollsten26@gmail.com'
-password = 'marineklimenko2'
+username = 'inputemailhere'
+password = 'inputpasswordhere'
 
 browser = webdriver.Chrome()
 browser.get(('https://csaccs.com/login'))
